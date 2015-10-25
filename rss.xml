@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jasper-Osborne Escapades]]></title>
+        <description><![CDATA[Jasper-Osborne Escapades]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 12:34:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is this for?]]></title>
+            <description><![CDATA[<article><h1>What is this for?</h1><p>A brief intro to the purpose of this site.</p></article>]]></description>
+            <link>undefinedwhat-is-this-for/index.html</link>
+            <guid isPermaLink="false">3210d709-8680-497a-bc8c-2b3af2d3df00</guid>
+            <pubDate>Sun, 25 Oct 2015 12:34:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
