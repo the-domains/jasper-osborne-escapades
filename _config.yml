@@ -1,6 +1,6 @@
 name: Jasper-Osborne Escapades
 favicon: null
-layout_spectrum: 0.73475
+layout_spectrum: 1
 typography_spectrum: 0.26382
 title: Jasper-Osborne Escapades
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6b7731'
     - '#aab9bc'
   brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.75
+  lightness: 0.75
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
