@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jasper-Osborne Escapades]]></title>
+        <description><![CDATA[Jasper-Osborne Escapades]]></description>
+        <link>http://www.jasperosborneescapades.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 00:09:47 GMT</lastBuildDate>
+        <atom:link href="http://www.jasperosborneescapades.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christmas Studies]]></title>
+            <description><![CDATA[<article><h1>Christmas Studies</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f9cae2-ec23-4803-99d4-5f6f644cf05e.jpg"></article>]]></description>
+            <link>http://www.jasperosborneescapades.com/christmas-studies/index.html</link>
+            <guid isPermaLink="false">46873333-4fc2-40f3-a18e-633933c22be4</guid>
+            <pubDate>Mon, 11 Jan 2016 00:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is this for?]]></title>
+            <description><![CDATA[<article><h1>What is this for?</h1><p>A brief intro to the purpose of this site.</p></article>]]></description>
+            <link>http://www.jasperosborneescapades.com/what-is-this-for/index.html</link>
+            <guid isPermaLink="false">3210d709-8680-497a-bc8c-2b3af2d3df00</guid>
+            <pubDate>Sun, 25 Oct 2015 12:34:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
